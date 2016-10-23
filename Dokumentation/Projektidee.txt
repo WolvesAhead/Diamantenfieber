@@ -1,4 +1,16 @@
 ===================================
+=== Diamantenfieber, 23-10-2016 ===
+===================================
+- "Krall sie dir alle!!"
+
+Haupspiel:
+- Mit einer Spitzhacke kann man sich durch den Boden nach unten graben.
+- Es gibt einen Timer. Falls der auf Null geht ist das Spiel vorbei.
+
+
+
+
+===================================
 === Feedback Alpers, 2016-10-14 ===
 ===================================
 
