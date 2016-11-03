@@ -1,11 +1,15 @@
 ===================================
-=== Diamantenfieber, 23-10-2016 ===
 ===================================
 - "Krall sie dir alle!!"
 
 Haupspiel:
+- Es gibt ein zufaellig erstelltes Level welches nach links/rechts und nach unten erkundet werden kann.
+- Man kann zwischen 1 und 2 Spielern waehlen.
+- Der Charakter kann nach links und rechts gehen. Au�erdem kann der Charakter sich ducken und einen Sprung sowie einen Doppelsprung vollfuehren.
 - Mit einer Spitzhacke kann man sich durch den Boden nach unten graben.
+- Das Ziel ist so viele Diamanten wie moeglich einzusammeln. Je weiter unten man im Level voranschreitet desto mehr wertvolle Diamanten findet man.
 - Es gibt einen Timer. Falls der auf Null geht ist das Spiel vorbei.
+
 
 
 
